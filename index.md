@@ -1,4 +1,4 @@
-## Welcome to South Jersey Python & Web Development Meetup
+## South Jersey Python & Web Development
 
 <ul>
   {% for post in site.posts %}
