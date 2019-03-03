@@ -11,7 +11,7 @@ Looking for good tech discussion, education, or networking in South Jersey? This
 
 
 ## Recent News
-* [/news/sj-python-schedule.md](SJ Pythong and Web Development 2019 Schedule)
+* [SJ Python and Web Development 2019 Schedule](news/sj-python-schedule.md)
 
 ### Contact
 
