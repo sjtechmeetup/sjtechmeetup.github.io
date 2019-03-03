@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## SJ Tech Meetup
 
 Looking for a tech meetup in South Jersey?  
