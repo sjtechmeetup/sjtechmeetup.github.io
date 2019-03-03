@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "South Jersey Python / Web Dev 2019 Sechedule"
 ---
 
