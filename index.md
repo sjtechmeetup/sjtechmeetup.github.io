@@ -1,8 +1,7 @@
 ---
 layout: default
+title: title here
 ---
-
-## SJ Tech Meetup
 
 Looking for a tech meetup in South Jersey?  
 Here are a few you might be interested in:
