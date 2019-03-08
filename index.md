@@ -14,7 +14,7 @@ Looking for good tech discussion, education, or networking in South Jersey? This
 * [SJ Python and Web Development 2019 Schedule](news/sj-python-schedule.md)
 * [Cape May Technical Meetup 2019 Schedule](news/capemay-schedule.md)
 
-### Contact Us
+### Contact
 
 Have a question or want to submit new content to this page?
 Email albert.crowley@tcg.com or [submit a pull request](https://github.com/sjtechmeetup/sjtechmeetup.github.io).
