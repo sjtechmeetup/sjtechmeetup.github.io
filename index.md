@@ -3,7 +3,7 @@ layout: default
 title: Meetup Info
 ---
 
-Looking for good tech discussion, education, or networking in South Jersey? This is a community page with info from a number of tech meetups in the area. Here are a few you might be interested in:
+Looking for great tech discussion, education, or networking in South Jersey? This is a community page with info from a number of tech meetups in the area. Here are a few you might be interested in:
 
 * **South Jersey Python and Web Development** - Hammonton, NJ
 * **Cape May Technology Meetup** - Cape May Court House, NJ
