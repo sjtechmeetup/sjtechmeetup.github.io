@@ -15,7 +15,7 @@ Looking for great tech discussion, education, or networking in South Jersey? Thi
 * [Cape May Technical Meetup 2019 Schedule](news/capemay-schedule.md)
 
 ## Past Presentation Materials
-* Async Programming with Python Futures and JavaScript Promises: [Slides](slides/asyc.pdf) / [Code](https://github.com/albertcrowley/promise-demo)
+* Async Programming with Python Futures and JavaScript Promises: [Slides](slides/async.pdf) / [Code](https://github.com/albertcrowley/promise-demo)
 
 ### Contact
 
