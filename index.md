@@ -11,7 +11,7 @@ Looking for great tech discussion, education, or networking in South Jersey? Thi
 
 
 ## Recent News
-* We are on Summer Break.  No traditional meetups till end of September but we may havs some social meetups. Details will be posted at meetup.com.
+* **We are on Summer Break.  No traditional meetups till end of September but we may havs some social meetups. Details will be posted at meetup.com.**
 * [SJ Python and Web Development 2019 Schedule](news/sj-python-schedule.md)
 * [Cape May Technical Meetup 2019 Schedule](news/capemay-schedule.md)
 
