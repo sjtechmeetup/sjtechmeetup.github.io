@@ -11,11 +11,14 @@ Looking for great tech discussion, education, or networking in South Jersey? Thi
 
 
 ## Recent News
+* We are on Summer Break.  No traditional meetups till end of September but we may havs some social meetups. Details will be posted at meetup.com.
 * [SJ Python and Web Development 2019 Schedule](news/sj-python-schedule.md)
 * [Cape May Technical Meetup 2019 Schedule](news/capemay-schedule.md)
 
 ## Past Presentation Materials
+* [Best Practices for Open Source Contributions: The Saga of a Single Line Change](https://github.com/sjtechmeetup/sjtechmeetup.github.io/raw/master/slides/The%20Saga%20of%20a%20Single%20Line%20Change%20(OSS%20Best%20Practices).pdf)
 * Async Programming with Python Futures and JavaScript Promises: [Slides](slides/async.pdf) / [Code](https://github.com/albertcrowley/promise-demo)
+
 
 ### Contact
 
