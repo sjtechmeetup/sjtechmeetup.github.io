@@ -5,9 +5,9 @@ title: Meetup Info
 
 Looking for great tech discussion, education, or networking in South Jersey? This is a community page with info from a number of tech meetups in the area. Here are a few you might be interested in:
 
-* **South Jersey Python and Web Development** - Hammonton, NJ
-* **Cape May Technology Meetup** - Cape May Court House, NJ
-* **Full Stack Javascript** - Cherry Hill, NJ 
+* **[South Jersey Python and Web Development](https://www.meetup.com/sjtechmeetup/)** - Hammonton, NJ
+* **[Cape May Technology Meetup](https://www.meetup.com/Cape-May-Tech-Meetup/)** - Cape May Court House, NJ
+* **[Full Stack Javascript](https://www.meetup.com/aboveMEAN/)** - Cherry Hill, NJ 
 
 
 ## Recent News
